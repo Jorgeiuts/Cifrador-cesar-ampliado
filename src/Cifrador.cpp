@@ -1,4 +1,4 @@
-#include "CIfrador.h"
+#include "Cifrador.h"
 
 Cifrador::Cifrador() : cipherString("") {}
 

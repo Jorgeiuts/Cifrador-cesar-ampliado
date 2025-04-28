@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "CIfrador.h"
+#include "Cifrador.h"
 #include "Archivo.h"
 
 class Run {

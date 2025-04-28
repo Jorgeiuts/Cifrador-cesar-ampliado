@@ -1,6 +1,4 @@
 #include <iostream>
-#include "CIfrador.h"
-#include "Archivo.h"
 #include "Run.h"
 
 int main() {
